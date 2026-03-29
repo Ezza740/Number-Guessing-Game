@@ -18,13 +18,17 @@ The game provides feedback after each guess, telling the player whether their gu
  
  Technologies Used:
     C++
+    
 Standard Library (<iostream>)
 
  Project structure:
+ 
 number-guessing-game/
 │
 ├── main.cpp        # Contains the full game logic
+
 └── README.md       # Project documentation
+
  
    How to Play:
 1)The game asks you to guess a number between 1 and 100.
