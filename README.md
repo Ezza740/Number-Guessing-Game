@@ -56,7 +56,7 @@ score = 100 - (attempts * 5);
 3) Score function does not properly handle negative values
 4) Array size is fixed to 5 guesses only
 
-   Future Enhancements:
+ Future Enhancements:
 
 1) Random number generation
 2) Replay option
