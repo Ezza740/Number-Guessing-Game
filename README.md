@@ -55,12 +55,14 @@ score = 100 - (attempts * 5);
 2) No input validation (non-numeric input may crash program)
 3) Score function does not properly handle negative values
 4) Array size is fixed to 5 guesses only
-5) Future Enhancements
-6) Random number generation
-7) Replay option
-8) Difficulty levels
-9) Input validation
-10) High score tracking
+
+   Future Enhancements:
+
+1) Random number generation
+2) Replay option
+3) Difficulty levels
+4) Input validation
+5) High score tracking
  
 
 
