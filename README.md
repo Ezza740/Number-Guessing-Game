@@ -69,5 +69,5 @@ score = 100 - (attempts * 5);
  Author
 
 EZZA SAEED
-GitHub: https://github.com/Ezza740
+GitHub: https://github.com/EzzaSaeed
 
